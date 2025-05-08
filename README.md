@@ -50,4 +50,4 @@ The dataset contains demographic and product usage data for customers who purcha
 
 - Customer profiles and business recommendations
 
-- Dataset: (cardiogoodfitness.csv)[https://docs.google.com/spreadsheets/d/1tcv0txD2ge93iBdJoObdMWb0u3P-BRBo/edit?gid=249348418#gid=249348418]
+- Dataset: [cardiogoodfitness.csv](https://docs.google.com/spreadsheets/d/1tcv0txD2ge93iBdJoObdMWb0u3P-BRBo/edit?gid=249348418#gid=249348418)
